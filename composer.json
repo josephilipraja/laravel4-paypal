@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "josephilipraja\\laravel4-paypal": "src/"
+            "Anouar\\Paypalpayment": "src/"
         }
     },
     "minimum-stability": "dev"
